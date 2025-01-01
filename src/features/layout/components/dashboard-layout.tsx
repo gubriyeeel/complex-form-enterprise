@@ -5,7 +5,7 @@ import { d } from "@/utils/dictionary";
 import BadgeOutlinedIcon from "@mui/icons-material/BadgeOutlined";
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
 import MenuIcon from "@mui/icons-material/Menu";
-import { Container, Paper, Stack } from "@mui/material";
+import { Paper, Stack } from "@mui/material";
 import MuiAppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
 import Divider from "@mui/material/Divider";
